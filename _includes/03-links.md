@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Mia on the internet](http://artsmia.org)
